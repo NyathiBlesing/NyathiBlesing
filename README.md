@@ -13,3 +13,5 @@
 
 
 <b>My GitHub Stats Par Excellence </b>
+<b>All my Projects are private </b>
+
