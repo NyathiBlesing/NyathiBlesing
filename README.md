@@ -1,4 +1,4 @@
-# Hi there 👋 I am Blessing Nyathi
+# Hi there! I am Blessing Nyathi
 
 ### Software Engineer | Data Scientist | AI & ML
 
