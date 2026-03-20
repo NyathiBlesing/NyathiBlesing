@@ -1,6 +1,6 @@
 # Hi there! I am Blessing Nyathi
 
-### Software Engineer | Data Scientist | AI & ML
+### Software Engineer | Data Scientist | AI
 
 ### Skills
 <p align="left">
